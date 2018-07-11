@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-mongodb:unknown">
+    <CLASSES>
+      <root url="jar://D:/ProgramFile/apache-maven-3.5.0/MavenHub/org/springframework/boot/spring-boot-starter-mongodb/unknown/spring-boot-starter-mongodb-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/ProgramFile/apache-maven-3.5.0/MavenHub/org/springframework/boot/spring-boot-starter-mongodb/unknown/spring-boot-starter-mongodb-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/ProgramFile/apache-maven-3.5.0/MavenHub/org/springframework/boot/spring-boot-starter-mongodb/unknown/spring-boot-starter-mongodb-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
